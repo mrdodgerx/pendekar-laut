@@ -6,7 +6,7 @@ This Python script scrapes image URLs from a website hosting episodes of the Hon
 
 1. Clone this repository:
     ~~~
-    git clone 
+    git clone https://github.com/mrdodgerx/pendekar-laut.git
     ~~~
 
 2. Install the required Python packages:
@@ -22,7 +22,7 @@ This Python script scrapes image URLs from a website hosting episodes of the Hon
 2. Run the script:
 
     ~~~
-    python pendekar_laut_scraper.py
+    python main.py
     ~~~
 
 The script will fetch all episodes from the main page, find the "Read more" link for each episode, download the images from that link, and save them into folders named after each episode.
