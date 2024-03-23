@@ -36,7 +36,7 @@ The script will fetch all episodes from the main page, find the "Read more" link
 
 ## Synopsis
 
-"Pendekar Laut" (translated as "Sea Warrior" in English) is a popular Hong Kong comic book series written and illustrated by an anonymous author. The story revolves around the adventures of Pai Cheung Lang, the titular character who is a skilled martial artist and sailor. Set in a fictional world inspired by Chinese martial arts and nautical themes, Pai Cheung Lang embarks on various quests and battles against formidable adversaries while seeking justice and protecting the innocent.
+"Pendekar Laut" (Tiger Shark) is a popular Hong Kong comic book series written and illustrated by Wan Yat Leung. The story revolves around the adventures of Pai Cheung Lang, the titular character who is a skilled martial artist . Set in a fictional world inspired by Chinese martial arts and nautical themes, Pai Cheung Lang embarks on various quests and battles against formidable adversaries while seeking justice and protecting the innocent.
 
 ## License
 
