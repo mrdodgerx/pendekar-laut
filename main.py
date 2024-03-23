@@ -63,7 +63,7 @@ class PendekarLaut:
         episodes = self.get_all_episode()
         for e in episodes:
             url = self.read_more_url(e)
-            folder_name = urlparse(url).path.strip('/').split('/')[-1]
+            folder_name = f"Output/{urlparse(url).path.strip('/').split('/')[-1]}"
             content = self.get_content(url)
             image_urls = self.get_images(content, url)
             self.download_images(image_urls, folder_name)
